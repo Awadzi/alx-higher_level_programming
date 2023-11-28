@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#By Patience Angbas
+
 
 import random
 
